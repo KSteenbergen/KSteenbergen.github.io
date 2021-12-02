@@ -1,5 +1,33 @@
 ## Welcome to GitHub Pages
 
+This website contains some of my work throughout my time in graduate school at Johns Hopkins University, 2019-2022.
+
+This portfolio will be periodically updated
+Area of skill include R, Python, SQL, etc.
+
+Projects listed are:
+
+1) COVID mutation browser
+Use:  This application was developed for the 410.712 Advanced Concepts for Computer Programming.  It is recent up to December ___, 2022. 
+This application functions by allowing a user to browse SARS-CoV-2 mutations in multiple ways.  It is especially interesting to look at how different variants compare and which mutations are similar between them.  
+Skills:  This application built skills in python, SQL database design and development, HTML, CSS, utlization of JQuery, and Jinga2 HTML templates.  Furthermore, this project offered an opportunity to present technical data (various SNPs on the SARS-C0V-2 genome) in an engaging way.
+
+2) Differential Gene Expression Analysis and Differential Transcript Usage Analysis Reports
+DGE: ______
+DTU: ______
+These reports were completed for a volunteer research position where I completed these specific analyses using RNA-Seq data.
+Use:
+Skills:  Specific skills developed through this experience included the further development of advanced R programming skills, utilization of Bioconductor packages, application of biostatisics, and utilization of NGS data.
+
+3) Group Manuscript Paper:
+The attached paper was completed for a 
+
+Skills:  This project further developed manuscript writing skills.  As a group, we went through the exercise of researching a novel SNP that may have pathological phenotypes.  We completed research, literature comparison, manuscript writing, peer-review, rebuttal, and final "publication".  Furthermore, the paper was formatted with latex using overleaf.  Please note, this paper has not been submitted for publishing.
+
+4) GFF3 Parser
+For a final project in the 410.635 Computer Concepts for Bioinformatics, a python program was written to parse a GFF3 file and return _____ metrics.  Because the project was complted for an exam, the code will not be publicly published, however to individuals not currently enrolled in JHU I am happy to share.  
+Skills: Python Programming.  
+
 You can use the [editor on GitHub](https://github.com/KSteenbergen/KSteenbergen.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
