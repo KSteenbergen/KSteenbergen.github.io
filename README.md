@@ -15,14 +15,14 @@ Skills:  This application built skills in python, SQL database design and develo
 ## Differential Gene Expression Analysis and Differential Transcript Usage Analysis Research Project
 The following reports were completed for a volunteer research position where I completed two analyses in R using Bioconductor packages.  The project involved using RNA-Seq data of Ewing Sarcoma cells and Mesenchymal stem cells treated with a splice inhibitor (____).  The goal of the project was to assess transcriptomic changes in response to the splicing inhibitor and specifically, how R-loops are affected by splicing **(NEED TO IMPROVE THIS DESCRIPTION)**
 Reports:  
-<a href="./DGE_MarkdownReport.Rmd" target="_self">Differential Gene Expression (DGE) Report</a>   
-<a href="./DTU_MarkdownReport.Rmd" target="_self">Differential Transcript Usage (DTU) Report</a>
-[Differential Gene Expression (DGE) Report](./DGE_MarkdownReport.Rmd)
+<a href="./DGE_MarkdownReport.html" target="_self">Differential Gene Expression (DGE) Report</a>   
+<a href="./DTU_MarkdownReport.html" target="_self">Differential Transcript Usage (DTU) Report</a>  
+[Differential Gene Expression (DGE) Report](./DGE_MarkdownReport.html)  
 
 
 Skills:  Specific skills developed through this experience included the further development of advanced R programming skills, utilization of Bioconductor packages, application of biostatisics, and utilization of NGS data.  
 
-This Research experience was completed through the [Bioinformatics Research Network](https://www.bio-net.dev/ target="_blank").  The BRN requires that in order to qualify to participate in a research project,  proof of competency is required through the completion of two mini-projects.  I completed the RNA-Seq and ChIP-Seq analyses projects.  These mini-projects can be found here:  
+This Research experience was completed through the [Bioinformatics Research Network](https://www.bio-net.dev).  The BRN requires that in order to qualify to participate in a research project,  proof of competency is required through the completion of two mini-projects.  I completed the RNA-Seq and ChIP-Seq analyses projects.  These mini-projects can be found here:  
 <a href="https://rpubs.com/KSteenbergen/738407/" target="_self">RNA-Seq Analysis</a>   
 <a href="https://rpubs.com/KSteenbergen/743415/" target="_self">ChIP-Seq Analysis</a>
   
