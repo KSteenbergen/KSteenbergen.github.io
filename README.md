@@ -17,7 +17,7 @@ The following reports were completed for a volunteer research position where I c
 Reports:  
 <a href="./DGE_MarkdownReport.html" target="_blank">Differential Gene Expression (DGE) Report</a>   
 <a href="./DTU_MarkdownReport.html" target="_parent">Differential Transcript Usage (DTU) Report</a>  
-[Differential Gene Expression (DGE) Report](./DGE_MarkdownReport.html)  
+[Differential Gene Expression (DGE) Report](./DGE_MarkdownReport.html target-"_parent")  
 
 
 Skills:  Specific skills developed through this experience included the further development of advanced R programming skills, utilization of Bioconductor packages, application of biostatisics, and utilization of NGS data.  
