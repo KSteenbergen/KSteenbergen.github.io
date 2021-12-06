@@ -17,7 +17,12 @@ DGE: ______
 DTU: ______
 These reports were completed for a volunteer research position where I completed these specific analyses using RNA-Seq data.
 Use:
-Skills:  Specific skills developed through this experience included the further development of advanced R programming skills, utilization of Bioconductor packages, application of biostatisics, and utilization of NGS data.
+Skills:  Specific skills developed through this experience included the further development of advanced R programming skills, utilization of Bioconductor packages, application of biostatisics, and utilization of NGS data.  
+
+This Research experience was completed through the Bioinformatics Research Network.  The BRN requires that in order to qualify to participate in a research project,  proof of competency is required through the completion of two mini-projects.  I completed the RNA-Seq and ChIP-Seq analyses projects.  These mini-projects can be found here:  
+ <a href="https://rpubs.com/KSteenbergen/738407/" target="_self">RNA-Seq Analysis</a> 
+<a href="https://rpubs.com/KSteenbergen/743415/" target="_self">ChIP-Seq Analysis</a>
+  
 
 3) Group Manuscript Paper:
 The attached paper was completed for a 
