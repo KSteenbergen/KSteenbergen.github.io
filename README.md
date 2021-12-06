@@ -1,9 +1,9 @@
-## Welcome to GitHub Pages
+## Kristen Steenbergen Portfolio
 
 This website contains some of my work throughout my time in graduate school at Johns Hopkins University, 2019-2022.
 
 This portfolio will be periodically updated
-Area of skill include R, Python, SQL, etc.
+Areas of skill include R, Python, SQL, etc.
 
 Projects listed are:
 
