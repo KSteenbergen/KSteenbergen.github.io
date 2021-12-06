@@ -15,8 +15,8 @@ Skills:  This application built skills in python, SQL database design and develo
 ## Differential Gene Expression Analysis and Differential Transcript Usage Analysis Research Project
 The following reports were completed for a volunteer research position where I completed two analyses in R using Bioconductor packages.  The project involved using RNA-Seq data of Ewing Sarcoma cells and Mesenchymal stem cells treated with a splice inhibitor (____).  The goal of the project was to assess transcriptomic changes in response to the splicing inhibitor and specifically, how R-loops are affected by splicing **(NEED TO IMPROVE THIS DESCRIPTION)**
 Reports:  
-Differential Gene Expression (DGE) <img src="/DGE_MarkdownReport.Rmd" alt="DGE">   
-Differential Transcript Usage (DTU)  
+Differential Gene Expression (DGE) <a href="./DGE_MarkdownReport.Rmd">DGE Report</a>   
+Differential Transcript Usage (DTU)  <img src="/DGE_MarkdownReport.Rmd" alt="DGE">
 
 
 Skills:  Specific skills developed through this experience included the further development of advanced R programming skills, utilization of Bioconductor packages, application of biostatisics, and utilization of NGS data.  
