@@ -7,30 +7,33 @@ Areas of skill include R, Python, SQL, etc.
 
 Projects listed are:
 
-## COVID mutation browser
-Use:  This application was developed for the 410.712 Advanced Concepts for Computer Programming.  It is recent up to December ___, 2022. 
+### COVID mutation browser
+This application was developed for the 410.712 Advanced Concepts for Computer Programming.  It is recent up to December ___, 2022. 
 This application functions by allowing a user to browse SARS-CoV-2 mutations in multiple ways.  It is especially interesting to look at how different variants compare and which mutations are similar between them.  
 Skills:  This application built skills in python, SQL database design and development, HTML, CSS, utlization of JQuery, and Jinga2 HTML templates.  Furthermore, this project offered an opportunity to present technical data (various SNPs on the SARS-C0V-2 genome) in an engaging way.
 
-## Differential Gene Expression Analysis and Differential Transcript Usage Analysis Research Project
-The following reports were completed for a volunteer research position where I completed two analyses in R using Bioconductor packages.  The project involved using RNA-Seq data of Ewing Sarcoma cells and Mesenchymal stem cells treated with a splice inhibitor (____).  The goal of the project was to assess transcriptomic changes in response to the splicing inhibitor and specifically, how R-loops are affected by splicing **(NEED TO IMPROVE THIS DESCRIPTION)**
+### R-loops and Spilcing Gene Expression Research Project
+This volunteer research experience involved the analysis of gene expression datasets of Ewing sarcoma cells treated with a splicing inhibitor.  The transcriptomes were assessed to explore how a splicing deficiency in Ewing sarcoma impacts R-loops.  I completed the differential gene expression analysis along with the differential transcript usage analysis in R and prepared the following reports in RMarkdown to be presented at the lab meetings.  
 
 <! This is HTML code that works in markdown when you want to do something specific - these reports open in a new tab, but it may be better to have all togehter for better user experience?  Then it can be executed with: [Differential Gene Expression (DGE) Report](./DGE_MarkdownReport.html) It's just that they take a while to load >
 Reports:  
 <a href="./DGE_MarkdownReport.html" target="_blank">Differential Gene Expression (DGE) Report</a>   
 <a href="./DTU_MarkdownReport.html" target="_blank">Differential Transcript Usage (DTU) Report</a>  
 
-Skills:  Specific skills developed through this experience included the further development of advanced R programming skills, utilization of Bioconductor packages, application of biostatisics, and utilization of NGS data.  
+Skills devloped through this project include the further development of advanced R programming skills, usage of Bioconductor packages, utilization of NGS data, and the application of biostatisics.
 
-This Research experience was completed through the [Bioinformatics Research Network](https://www.bio-net.dev).  The BRN requires that in order to qualify to participate in a research project,  proof of competency is required through the completion of two mini-projects.  I completed the RNA-Seq and ChIP-Seq analyses projects.  These mini-projects can be found here:  
+This research project was facilitated by the [Bioinformatics Research Network](https://www.bio-net.dev).  In order to to participate in a research project through the BRN,  proof of competency is required by completiing mini-projects.  The following RNA-Seq and ChIP-Seq analyses projects were completed and can be found here:  
 <a href="https://rpubs.com/KSteenbergen/738407/" target="_self">RNA-Seq Analysis</a>   
 <a href="https://rpubs.com/KSteenbergen/743415/" target="_self">ChIP-Seq Analysis</a>
   
 
-## Group Manuscript Paper:
-The attached paper was completed for a 
+### Manuscript Paper:
+The following manuscript was completed for a group project for the *Bioinformatics: Tools for Genome Analysis* class.  As a group we researched the heritability of a novel SNP (rs291014) in the miRNA146A gene that may be associated with an increasd risk of Behcet's disease.  This was a semester-long project that mimicked the process of peer-review journal publication while utilizing publicly available genomic data.  The final manuscript was formatted with LaTeX software using the PLOS template in Overleaf.  *Please note, this paper has not be submitted for publication*  
+  
+**Manuscript uploaded after final submission on December 20**  
+  
+This project was an excellent opportunity to further develop technical writing skills, along with group communication and collaboration skills.  Additional technical skills include LaTeX, increased familiarity with various tools and file formats, NGS data processing consisting of quality control assessment, sequence alignment, and variation calling.  
 
-Skills:  This project further developed manuscript writing skills.  As a group, we went through the exercise of researching a novel SNP that may have pathological phenotypes.  We completed research, literature comparison, manuscript writing, peer-review, rebuttal, and final "publication".  Furthermore, the paper was formatted with latex using overleaf.  Please note, this paper has not been submitted for publishing.
 
 4) GFF3 Parser
 For a final project in the 410.635 Computer Concepts for Bioinformatics, a python program was written to parse a GFF3 file and return _____ metrics.  Because the project was complted for an exam, the code will not be publicly published, however to individuals not currently enrolled in JHU I am happy to share.  
