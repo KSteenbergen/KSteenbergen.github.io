@@ -15,7 +15,7 @@ Skills:  This application built skills in python, SQL database design and develo
 ### R-loops and Spilcing Gene Expression Research Project
 This volunteer research experience involved the analysis of gene expression datasets of Ewing sarcoma cells treated with a splicing inhibitor.  The transcriptomes were assessed to explore how a splicing deficiency in Ewing sarcoma impacts R-loops.  I completed the differential gene expression analysis along with the differential transcript usage analysis in R and prepared the following reports in RMarkdown to be presented at the lab meetings.  
 
-<! This is HTML code that works in markdown when you want to do something specific - these reports open in a new tab, but it may be better to have all togehter for better user experience?  Then it can be executed with: [Differential Gene Expression (DGE) Report](./DGE_MarkdownReport.html) It's just that they take a while to load >
+<! --- This is HTML code that works in markdown when you want to do something specific - these reports open in a new tab, but it may be better to have all togehter for better user experience?  Then it can be executed with: [Differential Gene Expression (DGE) Report](./DGE_MarkdownReport.html) It's just that they take a while to load -->
 Reports:  
 <a href="./DGE_MarkdownReport.html" target="_blank">Differential Gene Expression (DGE) Report</a>   
 <a href="./DTU_MarkdownReport.html" target="_blank">Differential Transcript Usage (DTU) Report</a>  
@@ -26,16 +26,16 @@ This research project was facilitated by the [Bioinformatics Research Network](h
 <a href="https://rpubs.com/KSteenbergen/738407/" target="_self">RNA-Seq Analysis</a>   
 <a href="https://rpubs.com/KSteenbergen/743415/" target="_self">ChIP-Seq Analysis</a>
   
-
-### Manuscript Paper:
-The following manuscript was completed for a group project for the *Bioinformatics: Tools for Genome Analysis* class.  As a group we researched the heritability of a novel SNP (rs291014) in the miRNA146A gene that may be associated with an increasd risk of Behcet's disease.  This was a semester-long project that mimicked the process of peer-review journal publication while utilizing publicly available genomic data.  The final manuscript was formatted with LaTeX software using the PLOS template in Overleaf.  *Please note, this paper has not be submitted for publication*  
+### Manuscript Paper:  
+The following manuscript was completed for a group project for the *Bioinformatics: Tools for Genome Analysis* class.  As a group we researched the heritability of a novel SNP (rs291014) in the miRNA146A gene that may be associated with an increasd risk of Behcet's disease.  This was a semester-long project that mimicked the process of peer-review journal publication while utilizing publicly available genomic data.  The final manuscript was formatted with LaTeX software using the PLOS template in Overleaf.  
+*Please note, this paper has not be submitted for publication*    
   
 **Manuscript uploaded after final submission on December 20**  
   
 This project was an excellent opportunity to further develop technical writing skills, along with group communication and collaboration skills.  Additional technical skills include LaTeX, increased familiarity with various tools and file formats, NGS data processing consisting of quality control assessment, sequence alignment, and variation calling.  
 
 
-4) GFF3 Parser
+### GFF3 Parser
 For a final project in the 410.635 Computer Concepts for Bioinformatics, a python program was written to parse a GFF3 file and return _____ metrics.  Because the project was complted for an exam, the code will not be publicly published, however to individuals not currently enrolled in JHU I am happy to share.  
 Skills: Python Programming.  
 
