@@ -10,7 +10,7 @@ Areas of skill include R, Python, SQL, etc.
 Projects listed are:
 
 ### h-CoV-19 Variant Mutation Browser
-[www.covidvariantbrowser.com](www.covidvariantbrowser.com) is an application I developed to compare and display distinguishing SNP mutations of different variants of h-CoV-2 (SARS-CoV-2).   The mutations can be viewed as a side-by-side comparison of 2 variants, or of all the variant mutations present on each gene.  This project was completed as a final project for the advanced computer concepts class and utilized a wide array of web development elements such as HTML, CSS, Jquery, python CGI scripts, and SQL.  
+<www.covidvariantbrowser.com> is an application I developed to compare and display distinguishing SNP mutations of different variants of h-CoV-2 (SARS-CoV-2).   The mutations can be viewed as a side-by-side comparison of 2 variants, or of all the variant mutations present on each gene.  This project was completed as a final project for the *Advanced Practical Computer Concepts* class and utilized a wide array of web development elements such as HTML, CSS, Jquery, python CGI scripts, and SQL.  
   
 **This tool was last updated May 1, 2021, and will be soon updated to include both the Delta and Omicron Variants**
 
@@ -41,6 +41,10 @@ This project was an excellent opportunity to further develop technical writing s
 ### GFF3 Parser
 For a final project in the 410.635 Computer Concepts for Bioinformatics, a python program was written to parse a GFF3 file and return _____ metrics.  Because the project was complted for an exam, the code will not be publicly published, however to individuals not currently enrolled in JHU I am happy to share.  
 Skills: Python Programming.  
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/KSteenbergen/KSteenbergen.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
