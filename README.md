@@ -10,13 +10,16 @@ Areas of skill include R, Python, SQL, etc.
 ## Projects:
 
 ### h-CoV-19 Variant Mutation Browser  
-
-[www.covidvariantbrowser.com](www.covidvariantbrowser.com) is an application I developed to compare and display distinguishing SNP mutations of different variants of h-CoV-2 (SARS-CoV-2).   The mutations can be viewed as a side-by-side comparison of 2 variants, or of all the variant mutations present on each gene.  This project was completed as a final project for the *Advanced Practical Computer Concepts* class and utilized a wide array of web development elements such as HTML, CSS, Jquery, python CGI scripts, and SQL.  
+www.covidvariantbrowser.com is an application I developed to compare and display distinguishing SNP mutations of different variants of h-CoV-2 (SARS-CoV-2).   The mutations can be viewed as a side-by-side comparison of 2 variants, or of all the variant mutations present on each gene.  This project was completed as a final project for the *Advanced Practical Computer Concepts* class and utilized a wide array of web development elements such as HTML, CSS, Jquery, python CGI scripts, and SQL.  
   
 **This tool was last updated May 1, 2021, and will be soon updated to include both the Delta and Omicron Variants**
   
 ### R-loops and Spilcing Gene Expression Research Project
 ![Research_Thumbnail](images/Portfolio_Rsearch.png)   
+<img src="images/Portfolio_Rsearch.png"
+     alt="Research Thumbnail"
+     style="float: left; margin-right: 10px;" />
+
 This volunteer research experience involved the analysis of gene expression datasets of Ewing sarcoma cells treated with a splicing inhibitor.  The transcriptomes were assessed to explore how a splicing deficiency in Ewing sarcoma impacts R-loops.  I completed the differential gene expression analysis along with the differential transcript usage analysis in R and prepared the following reports in RMarkdown to be presented at the lab meetings.  
 
 <!--- This is HTML code that works in markdown when you want to do something specific - these reports open in a new tab, but it may be better to have all togehter for better user experience?  Then it can be executed with: [Differential Gene Expression (DGE) Report](./DGE_MarkdownReport.html) It's just that they take a while to load -->
