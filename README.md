@@ -1,3 +1,4 @@
+
 ## Professional Portfolio
 
 This website contains some of my work throughout my time in graduate school at Johns Hopkins University, 2019-2022.
@@ -36,26 +37,27 @@ This research project was facilitated by the Bioinformatics Research Network [(B
 <a href="https://rpubs.com/KSteenbergen/743415/" target="_self">ChIP-Seq Analysis</a>
 
 ------------
-### Manuscript Paper:    
+### Research Manuscript:    
 <img src="images/Portfolio_Manuscript.png"
      alt="Manuscript Thumbnail"
      style="float: left; margin-right: 10px;" />
 The following manuscript was completed for a group project for the *Bioinformatics: Tools for Genome Analysis* class.  As a group we researched the heritability of a novel SNP (rs291014) in the miRNA146A gene that may be associated with an increasd risk of Behcet's disease.  This was a semester-long project that mimicked the process of peer-review journal publication while utilizing publicly available genomic data.  The final manuscript was formatted with LaTeX software using the PLOS template in Overleaf.  
+  
 *Please note, this paper has not be submitted for publication.*    
   
-**Manuscript uploaded after final submission on December 20,2021**  
+**The Manuscript will be uploaded or linked here after final submission on December 20,2021**  
   
 This project was an excellent opportunity to further develop technical writing skills, along with group communication and collaboration skills.  Additional technical skills include LaTeX, increased familiarity with various tools and file formats, NGS data processing consisting of quality control assessment, sequence alignment, and variation calling.  
 ----------
 
 ### GFF3 Feature Exporter Program in Python
 Since GFF3 is a common file format in bioinformatics, for one of the elements of the final exam for my *Practical Computer Concepts* class involved writing a program in python that would parse a GFF3 file for a given feature and then output the sequence in FASTA format.  This program executes with 4 arguments indicating the GFF3 file, type, ID, and value of the feature of interest. 
-The attached video shows the FASTA output for the YAL068W-A gene, and then the coding sequence of the YAL068C gene in the *S.cerevisiae* genome.  Both of the genes are located on chromosome I. 
+The video below shows the FASTA output for the YAL068W-A gene, and then the coding sequence of the YAL068C gene in the *S.cerevisiae* genome.  Both of the genes are located on chromosome I. 
 
 *Note: Because this program was written for an exam, for plagiarism reasons the code is not publicly shared.  However, I am happy to share the program code to anyone who is not a fellow JHU classmate in the bioinformatics/biotechnology program.*
-<video width="320" height="240" controls>
+<video width="450" height="700" controls>
   <source src="GFF3_Feature_Program.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  Your browser does not support the video embedded here.
 </video>
 ----------
 
