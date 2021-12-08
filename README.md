@@ -1,7 +1,6 @@
 
 ## Professional Portfolio
-<img src="images/profile_pic.jpg"
-     alt="Profile Photo"
+<img src="images/profile_pic.jpg" alt="Profile Photo"  height="250" width="250"
      style="float: right; margin-left: 10px;" />
 Hi there, I am Kristen! I'm a graduate student at Johns Hopkins University and will soon be finishing up my M.S. Biotechnology with an emphasis in Bioinformatics.  
 
