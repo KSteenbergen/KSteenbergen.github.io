@@ -15,8 +15,8 @@ www.covidvariantbrowser.com is an application I developed to compare and display
 **This tool was last updated May 1, 2021, and will be soon updated to include both the Delta and Omicron Variants**
   
 ### R-loops and Spilcing Gene Expression Research Project
-![Research_Thumbnail](images/Portfolio_Rsearch.png)   
-<img src="images/Portfolio_Rsearch.png"
+![Research_Thumbnail](images/Portfolio_Research.png)   
+<img src="images/Portfolio_Research.png"
      alt="Research Thumbnail"
      style="float: left; margin-right: 10px;" />
 
