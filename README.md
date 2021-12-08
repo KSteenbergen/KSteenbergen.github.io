@@ -1,12 +1,12 @@
 
 ## Professional Portfolio
+<img src="images/profile_pic.jpg"
+     alt="Profile Photo"
+     style="float: right; margin-left: 10px;" />
+Hi there, I am Kristen! I'm a graduate student at Johns Hopkins University and will soon be finishing up my M.S. Biotechnology with an emphasis in Bioinformatics.  
 
-This website contains some of my work throughout my time in graduate school at Johns Hopkins University, 2019-2022.
+I have found it is very easy to list off programming skills and *say* that I can program in R or python, but it is much more impactful to *show* these skills.  This is why I wanted to compile my most recent past and present projects in order to showcase my skill set.  I hope you enjoy and feel free to reach out through [LinkedIn](www.linkedin.com/in/kristen-steenbergen/) or at kristen.steenbergen at gmail dot com.
 
-This portfolio is in response to lack of ability to *show* skills rather than just tell about them.
-
-This page will be periodically updated
-Areas of skill include R, Python, SQL, etc.
 
 ## Projects:
 ---------------
@@ -43,11 +43,13 @@ This research project was facilitated by the Bioinformatics Research Network [(B
      style="float: left; margin-right: 10px;" />
 The following manuscript was completed for a group project for the *Bioinformatics: Tools for Genome Analysis* class.  As a group we researched the heritability of a novel SNP (rs291014) in the miRNA146A gene that may be associated with an increasd risk of Behcet's disease.  This was a semester-long project that mimicked the process of peer-review journal publication while utilizing publicly available genomic data.  The final manuscript was formatted with LaTeX software using the PLOS template in Overleaf.  
   
-*Please note, this paper has not be submitted for publication.*    
+This project was an excellent opportunity to further develop technical writing skills, along with group communication and collaboration skills.  Additional technical skills include LaTeX, increased familiarity with various tools and file formats, NGS data processing consisting of quality control assessment, sequence alignment, and variation calling.   
   
+*Please note, this paper has not be submitted for publication.*    
+    
 **The Manuscript will be uploaded or linked here after final submission on December 20,2021**  
   
-This project was an excellent opportunity to further develop technical writing skills, along with group communication and collaboration skills.  Additional technical skills include LaTeX, increased familiarity with various tools and file formats, NGS data processing consisting of quality control assessment, sequence alignment, and variation calling.  
+
 ----------
 
 ### GFF3 Feature Exporter Program in Python
@@ -55,7 +57,7 @@ Since GFF3 is a common file format in bioinformatics, for one of the elements of
 The video below shows the FASTA output for the YAL068W-A gene, and then the coding sequence of the YAL068C gene in the *S.cerevisiae* genome.  Both of the genes are located on chromosome I. 
 
 *Note: Because this program was written for an exam, for plagiarism reasons the code is not publicly shared.  However, I am happy to share the program code to anyone who is not a fellow JHU classmate in the bioinformatics/biotechnology program.*
-<video width="700" height="700" controls>
+<video width="1500" height="700" controls>
   <source src="GFF3_Feature_Program.mp4" type="video/mp4">
   Your browser does not support the video embedded here.
 </video>
