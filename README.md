@@ -1,19 +1,19 @@
-## Kristen Steenbergen Portfolio
+## Professinoal Portfolio
 
 This website contains some of my work throughout my time in graduate school at Johns Hopkins University, 2019-2022.
 
 This portfolio is in response to lack of ability to *show* skills rather than just tell about them.
 
-This portfolio will be periodically updated
+This page will be periodically updated
 Areas of skill include R, Python, SQL, etc.
 
-Projects listed are:
+## Projects:
 
-### h-CoV-19 Variant Mutation Browser
-<www.covidvariantbrowser.com> is an application I developed to compare and display distinguishing SNP mutations of different variants of h-CoV-2 (SARS-CoV-2).   The mutations can be viewed as a side-by-side comparison of 2 variants, or of all the variant mutations present on each gene.  This project was completed as a final project for the *Advanced Practical Computer Concepts* class and utilized a wide array of web development elements such as HTML, CSS, Jquery, python CGI scripts, and SQL.  
+### h-CoV-19 Variant Mutation Browser  
+<www.covidvariantbrowser.com>  
+[www.covidvariantbrowser.com](www.covidvariantbrowser.com) is an application I developed to compare and display distinguishing SNP mutations of different variants of h-CoV-2 (SARS-CoV-2).   The mutations can be viewed as a side-by-side comparison of 2 variants, or of all the variant mutations present on each gene.  This project was completed as a final project for the *Advanced Practical Computer Concepts* class and utilized a wide array of web development elements such as HTML, CSS, Jquery, python CGI scripts, and SQL.  
   
 **This tool was last updated May 1, 2021, and will be soon updated to include both the Delta and Omicron Variants**
-
   
 ### R-loops and Spilcing Gene Expression Research Project
 <img align="right" src="images/Portfolio_Rsearch.png"> This volunteer research experience involved the analysis of gene expression datasets of Ewing sarcoma cells treated with a splicing inhibitor.  The transcriptomes were assessed to explore how a splicing deficiency in Ewing sarcoma impacts R-loops.  I completed the differential gene expression analysis along with the differential transcript usage analysis in R and prepared the following reports in RMarkdown to be presented at the lab meetings.  
