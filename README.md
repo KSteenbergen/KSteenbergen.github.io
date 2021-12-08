@@ -14,7 +14,7 @@ Areas of skill include R, Python, SQL, etc.
 <img src="images/Portfolio_COVID.png"
      alt="COVID Thumbnail"
      style="float: left; margin-right: 10px;" />
-www.covidvariantbrowser.com is an application I developed to compare and display distinguishing SNP mutations of different variants of h-CoV-2 (SARS-CoV-2).   The mutations can be viewed as a side-by-side comparison of 2 variants, or of all the variant mutations present on each gene.  This project was completed as a final project for the *Advanced Practical Computer Concepts* class and utilized a wide array of web development elements such as HTML, CSS, Jquery, python CGI scripts, and SQL.  
+[www.covidvariantbrowser.com](www.covidvariantbrowser.com) is an application I developed to compare and display distinguishing SNP mutations of different variants of h-CoV-2 (SARS-CoV-2).   The mutations can be viewed as a side-by-side comparison of 2 variants, or of all the variant mutations present on each gene.  This project was completed as a final project for the *Advanced Practical Computer Concepts* class and utilized a wide array of web development elements such as HTML, CSS, Jquery, python CGI scripts, and SQL.  
   
 **This tool was last updated May 1, 2021, and will be soon updated to include both the Delta and Omicron Variants**
   
@@ -55,7 +55,7 @@ Since GFF3 is a common file format in bioinformatics, for one of the elements of
 The video below shows the FASTA output for the YAL068W-A gene, and then the coding sequence of the YAL068C gene in the *S.cerevisiae* genome.  Both of the genes are located on chromosome I. 
 
 *Note: Because this program was written for an exam, for plagiarism reasons the code is not publicly shared.  However, I am happy to share the program code to anyone who is not a fellow JHU classmate in the bioinformatics/biotechnology program.*
-<video width="450" height="700" controls>
+<video width="700" height="700" controls>
   <source src="GFF3_Feature_Program.mp4" type="video/mp4">
   Your browser does not support the video embedded here.
 </video>
