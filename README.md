@@ -5,7 +5,7 @@
      style="float: right; margin-left: 10px;" />
 ### About Me:
 I'm a graduate student at Johns Hopkins University and will soon be finishing up my M.S. Biotechnology with an emphasis in Bioinformatics.  
-I will be graduating in May of 2021, and will be purusing a job that aligns with my interest of using bioinfromatics to study transcriptomes, genomes, and epigenomes.  I have found it is very easy to list off skills and *say* that I am proficient in R, python, know my way around a relational database, and am familiar with technical writing.  But, it is much more impactful to *show* how I can demonstrate these competencies.  This is why I wanted I have compiled my most recent past and present projects.  Enjoy and feel free to reach out through [LinkedIn](www.linkedin.com/in/kristen-steenbergen/) or at kristen.steenbergen at gmail dot com.  
+I will be graduating in May of 2021, and will be purusing a job that aligns with my interest of using bioinfromatics to study transcriptomes, genomes, and epigenomes.  I have found it is very easy to list off skills and *say* that I am proficient in R, python, know my way around a relational database, and am familiar with technical writing.  But, it is much more impactful to *show* how I can demonstrate these competencies.  This is why I wanted I have compiled my most recent past and present projects.  Enjoy and feel free to reach out through [LinkedIn](https://www.linkedin.com/in/kristen-steenbergen/) or at kristen.steenbergen at gmail dot com.  
 -------------------
 
 ## Projects:
@@ -14,7 +14,7 @@ I will be graduating in May of 2021, and will be purusing a job that aligns with
 <img src="images/Portfolio_COVID.png"
      alt="COVID Thumbnail"
      style="float: left; margin-right: 10px;" />
-<a href="http://www.covidvariantbrowser.com" target="_blank">www.covidvariantbrowser.com</a> is an application I developed to compare and display distinguishing SNP mutations of different variants of h-CoV-2 (SARS-CoV-2).   The mutations can be viewed as a side-by-side comparison of 2 variants, or of all the variant mutations present on each gene.  This project was completed as a final project for the *Advanced Practical Computer Concepts* class and utilized a wide array of web development elements such as HTML, CSS, Jquery, python CGI scripts, and SQL.  
+<a href="https://www.covidvariantbrowser.com" target="_blank">www.covidvariantbrowser.com</a> is an application I developed to compare and display distinguishing SNP mutations of different variants of h-CoV-2 (SARS-CoV-2).   The mutations can be viewed as a side-by-side comparison of 2 variants, or of all the variant mutations present on each gene.  This project was completed as a final project for the *Advanced Practical Computer Concepts* class and utilized a wide array of web development elements such as HTML, CSS, Jquery, python CGI scripts, and SQL.  
   
 **This tool was last updated May 1, 2021, and will be soon updated to include both the Delta and Omicron Variants**
   
