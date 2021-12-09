@@ -1,11 +1,12 @@
 
 ## Professional Portfolio
+-----------------
 <img src="images/profile_pic.jpg" alt="Profile Photo"  height="250" width="250"
      style="float: right; margin-left: 10px;" />
-Hi there, I am Kristen! I'm a graduate student at Johns Hopkins University and will soon be finishing up my M.S. Biotechnology with an emphasis in Bioinformatics.  
-
-I have found it is very easy to list off programming skills and *say* that I can program in R or python, but it is much more impactful to *show* these skills.  This is why I wanted to compile my most recent past and present projects in order to showcase my skill set.  I hope you enjoy and feel free to reach out through [LinkedIn](www.linkedin.com/in/kristen-steenbergen/) or at kristen.steenbergen at gmail dot com.
-
+### About Me:
+I'm a graduate student at Johns Hopkins University and will soon be finishing up my M.S. Biotechnology with an emphasis in Bioinformatics.  
+I will be graduating in May of 2021, and will be purusing a job that aligns with my interest of using bioinfromatics to study transcriptomes, genomes, and epigenomes.  I have found it is very easy to list off skills and *say* that I am proficient in R, python, know my way around a relational database, and am familiar with technical writing.  But, it is much more impactful to *show* how I can demonstrate these competencies.  This is why I wanted I have compiled my most recent past and present projects.  Enjoy and feel free to reach out through [LinkedIn](www.linkedin.com/in/kristen-steenbergen/) or at kristen.steenbergen at gmail dot com.  
+-------------------
 
 ## Projects:
 ---------------
@@ -13,15 +14,13 @@ I have found it is very easy to list off programming skills and *say* that I can
 <img src="images/Portfolio_COVID.png"
      alt="COVID Thumbnail"
      style="float: left; margin-right: 10px;" />
-[www.covidvariantbrowser.com](www.covidvariantbrowser.com) is an application I developed to compare and display distinguishing SNP mutations of different variants of h-CoV-2 (SARS-CoV-2).   The mutations can be viewed as a side-by-side comparison of 2 variants, or of all the variant mutations present on each gene.  This project was completed as a final project for the *Advanced Practical Computer Concepts* class and utilized a wide array of web development elements such as HTML, CSS, Jquery, python CGI scripts, and SQL.  
+<a href="www.covidvariantbrowser.com" target="_blank">www.covidvariantbrowser.com</a> is an application I developed to compare and display distinguishing SNP mutations of different variants of h-CoV-2 (SARS-CoV-2).   The mutations can be viewed as a side-by-side comparison of 2 variants, or of all the variant mutations present on each gene.  This project was completed as a final project for the *Advanced Practical Computer Concepts* class and utilized a wide array of web development elements such as HTML, CSS, Jquery, python CGI scripts, and SQL.  
   
 **This tool was last updated May 1, 2021, and will be soon updated to include both the Delta and Omicron Variants**
   
 ------------------
 ### R-loops and Spilcing Gene Expression Research Project
-<img src="images/Portfolio_Research.png"
-     alt="Research Thumbnail"
-     style="float: left; margin-right: 10px;" />
+<img src="images/Portfolio_Research.png" alt="Research Thumbnail" style="float: left; margin-right: 10px;" />
 This volunteer research experience involved the analysis of gene expression datasets of Ewing sarcoma cells treated with a splicing inhibitor.  The transcriptomes were assessed to explore how a splicing deficiency in Ewing sarcoma impacts R-loops.  I completed the differential gene expression analysis along with the differential transcript usage analysis in R and prepared the following reports in RMarkdown to be presented at the lab meetings.  
 
 <!--- This is HTML code that works in markdown when you want to do something specific - these reports open in a new tab, but it may be better to have all togehter for better user experience?  Then it can be executed with: [Differential Gene Expression (DGE) Report](./DGE_MarkdownReport.html) It's just that they take a while to load -->
@@ -37,9 +36,7 @@ This research project was facilitated by the Bioinformatics Research Network [(B
 
 ------------
 ### Research Manuscript:    
-<img src="images/Portfolio_Manuscript.png"
-     alt="Manuscript Thumbnail"
-     style="float: left; margin-right: 10px;" />
+<img src="images/Portfolio_Manuscript.png" alt="Manuscript Thumbnail" style="float: left; margin-right: 10px;" />
 The following manuscript was completed for a group project for the *Bioinformatics: Tools for Genome Analysis* class.  As a group we researched the heritability of a novel SNP (rs291014) in the miRNA146A gene that may be associated with an increasd risk of Behcet's disease.  This was a semester-long project that mimicked the process of peer-review journal publication while utilizing publicly available genomic data.  The final manuscript was formatted with LaTeX software using the PLOS template in Overleaf.  
   
 This project was an excellent opportunity to further develop technical writing skills, along with group communication and collaboration skills.  Additional technical skills include LaTeX, increased familiarity with various tools and file formats, NGS data processing consisting of quality control assessment, sequence alignment, and variation calling.   
@@ -47,7 +44,6 @@ This project was an excellent opportunity to further develop technical writing s
 *Please note, this paper has not be submitted for publication.*    
     
 **The Manuscript will be uploaded or linked here after final submission on December 20,2021**  
-  
 
 ----------
 
