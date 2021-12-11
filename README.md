@@ -6,7 +6,7 @@
 ### About Me:
 I'm a graduate student at Johns Hopkins University and will soon be finishing up my M.S. Biotechnology with an emphasis in Bioinformatics.  
   
-I will be graduating in May of 2021, and will be purusing a job that aligns with my interest of using bioinfromatics to study transcriptomes, genomes, and epigenomes.  I have found it is very easy to list off skills and *say* that I am proficient in R, python, know my way around a relational database, and am familiar with technical writing.  But, it is much more impactful to *show* how I can demonstrate these competencies.  This is why I wanted I have compiled my most recent past and present projects.  Enjoy and feel free to reach out through [LinkedIn](https://www.linkedin.com/in/kristen-steenbergen/) or at kristen.steenbergen at gmail dot com.  
+I will be graduating in May of 2021, and will be pursuing a job that aligns with my interest of using bioinfromatics to study transcriptomes, genomes, and epigenomes.  I have found it is very easy to list off skills and *say* that I am proficient in R, python, know my way around a relational database, and am familiar with technical writing.  But, it is much more impactful to *show* how I can demonstrate these competencies.  This is why I wanted I have compiled my most recent past and present projects.  Enjoy and feel free to reach out through [LinkedIn](https://www.linkedin.com/in/kristen-steenbergen/) or at kristen.steenbergen at gmail dot com.  
 -------------------
 
 ## Projects:
@@ -53,7 +53,7 @@ Since GFF3 is a common file format in bioinformatics, part of the final exam for
 The video below shows the FASTA output for the YAL068W-A gene, and then the coding sequence of the YAL068C gene in the *S.cerevisiae* genome.  Both of the genes are located on chromosome I. 
 
 *Note: Because this program was written for an exam, for plagiarism reasons the code is not publicly shared.  However, I am happy to share the program code to anyone who is not a fellow JHU classmate in the bioinformatics/biotechnology program.*
-<video width="1000" height="700" controls>
+<video width="800" height="700" controls>
   <source src="GFF3_Feature_Program.mp4" type="video/mp4">
   Your browser does not support the video embedded here.
 </video>
