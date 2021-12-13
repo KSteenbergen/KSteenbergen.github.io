@@ -13,7 +13,7 @@ I have found it is very easy to list off skills and *say* that I am proficient i
 ## My Resume:  
 My resume can be viewed here: <a href="KSteenbergen_PublicResume_Dec2021.pdf">Resume</a>  
 <a href="KSteenbergen_PublicResume_Dec2021.pdf">
-    <img src="images/Resume.png" alt="Resume Thumbnail" style="float: right; margin-left: 10px;" width="100" height="100"/>
+    <img src="images/Resume.png" alt="Resume Thumbnail" style="float: right; margin-left: 10px;" width="150" height="100"/>
 </a>
 
 -------------------
