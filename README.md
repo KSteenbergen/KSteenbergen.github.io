@@ -10,8 +10,12 @@ I'm a graduate student at Johns Hopkins University and will soon be finishing up
 I have found it is very easy to list off skills and *say* that I am proficient in R and python, know my way around a relational database, and am familiar with technical writing to communicate results.  But, it is much more impactful to *show* how I can demonstrate these competencies.  This is why I have compiled my most recent past and present projects.Enjoy, and feel free to reach out through [LinkedIn](https://www.linkedin.com/in/kristen-steenbergen/) or at kristen.steenbergen at gmail dot com.  
 
 -------------------
-## My Resume:
-My resume can be viewed here: <a href="KSteenbergen_PublicResume_Dec2021.pdf">Resume</a> 
+## My Resume:  
+My resume can be viewed here: <a href="KSteenbergen_PublicResume_Dec2021.pdf">Resume</a>  
+<a href="KSteenbergen_PublicResume_Dec2021.pdf">
+    <img src="images/resume.png" alt="Resume Thumbnail" style="float: right; margin-left: 10px;" />
+</a>
+
 -------------------
 ## Projects:
 ---------------
