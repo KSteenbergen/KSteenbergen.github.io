@@ -17,8 +17,7 @@ I have found it is very easy to list off skills and *say* that I am proficient i
 </a>My resume can be viewed <a href="KSteenbergen_PublicResume_Dec2021.pdf">here.</a>  
   
   
-  
-  
+
   
   
 <br>  
