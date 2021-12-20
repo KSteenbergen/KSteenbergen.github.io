@@ -1,5 +1,6 @@
-# Kristen Steenbergen ##### Bioinformatician
-------------
+# Kristen Steenbergen 
+### Bioinformatician
+----------------
 ## Professional Portfolio
 -----------------
 <img src="images/profile_pic.jpg" alt="Profile Photo"  height="250" width="250"
