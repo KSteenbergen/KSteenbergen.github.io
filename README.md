@@ -1,5 +1,4 @@
 # Kristen Steenbergen 
-### Bioinformatician
 ----------------
 ## Professional Portfolio
 -----------------
