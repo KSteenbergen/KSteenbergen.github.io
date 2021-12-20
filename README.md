@@ -1,6 +1,5 @@
-# Kristen Steenbergen
-#### Bioinformatician
-
+# Kristen Steenbergen ##### Bioinformatician
+------------
 ## Professional Portfolio
 -----------------
 <img src="images/profile_pic.jpg" alt="Profile Photo"  height="250" width="250"
@@ -66,7 +65,7 @@ This project was an excellent opportunity to further develop technical writing s
 Since GFF3 is a common file format in bioinformatics, part of the final exam for my *Practical Computer Concepts* class involved writing a program in python that would parse a GFF3 file for a given feature and then output the sequence in FASTA format.  This program executes with 4 arguments indicating the GFF3 file, type, ID, and value of the feature of interest. 
 The video below shows the FASTA output for the YAL068W-A gene, and then the coding sequence of the YAL068C gene in the *S.cerevisiae* genome.  Both of the genes are located on chromosome I. 
 
-*Note: Because this program was written for an exam, for plagiarism reasons the code is not publicly shared.  However, I am happy to share the program code with anyone who is not a fellow JHU classmate in the bioinformatics/biotechnology program.*
+*Note: Because this program was written as part of an exam, for plagiarism reasons the code is not publicly shared.  However, I am happy to share the program code with anyone who is not a fellow JHU classmate in the bioinformatics/biotechnology program.*
 <video width="800" height="700" controls>
   <source src="GFF3_Feature_Program.mp4" type="video/mp4">
   Your browser does not support the video embedded here.
