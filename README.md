@@ -1,3 +1,5 @@
+# Kristen Steenbergen
+#### Bioinformatician
 
 ## Professional Portfolio
 -----------------
@@ -47,14 +49,16 @@ This research project was facilitated by the Bioinformatics Research Network [(B
 
 ------------
 ### Research Manuscript:    
-<img src="images/Portfolio_Manuscript.png" alt="Manuscript Thumbnail" style="float: left; margin-right: 10px;" />
-The following manuscript was completed for a group project for the *Bioinformatics: Tools for Genome Analysis* class.  As a group, we researched the heritability of a novel SNP (rs291014) in the miRNA146A gene that may be associated with an increased risk of Behcet's disease.  This was a semester-long project that mimicked the process of peer-review journal publication while utilizing publicly available genomic data.  The final manuscript was formatted with LaTeX software using the PLOS template in Overleaf.  
-  
+<a href="Genomics_Manuscript.pdf">
+  <img src="images/Portfolio_Manuscript.png" alt="Manuscript Thumbnail" style="float: left; margin-right: 10px;" />
+</a>
+The following manuscript was completed for a group project for the *Bioinformatics: Tools for Genome Analysis* class.  As a group, we researched the heritability of a novel SNP (rs2910164) in the miRNA146A gene that is associated with an increased risk of Behcet's disease.  This was a semester-long project that mimicked the process of peer-review journal publication while utilizing publicly available genomic data.  The final manuscript was formatted with LaTeX software using the PLOS template in Overleaf.  
+
 This project was an excellent opportunity to further develop technical writing skills, along with group communication and collaboration skills.  Additional technical skills include LaTeX, increased familiarity with various tools and file formats, NGS data processing consisting of quality control assessment, sequence alignment, and variation calling.   
   
 *Please note, this paper has not been submitted for publication.*    
     
-**The Manuscript will be uploaded or linked here after final submission on December 20, 2021.**  
+<a href="Genomics_Manuscript.pdf">**Review Manuscript Here**</a> 
 
 ----------
 
