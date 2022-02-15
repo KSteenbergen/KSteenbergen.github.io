@@ -6,7 +6,7 @@
      style="float: right; margin-left: 10px;" />
 ### About Me:
 
-I'm a graduate student at Johns Hopkins University and will soon be finishing up my M.S. Biotechnology with an emphasis in Bioinformatics.  I'll be graduating in May of 2022 and am currently pursuing a job that aligns with my interest in using bioinformatics to study transcriptomes, genomes, and epigenomes.  I am interested and available for full-time, part-time, or contract/project-based remote work. 
+I'm a graduate student at Johns Hopkins University and will soon be finishing up my M.S. Biotechnology with an emphasis in Bioinformatics.  I'll be graduating in May of 2022 and am currently pursuing a job that aligns with my interest in using bioinformatics to study transcriptomes, genomes, and epigenomes.  I am interested and available for part-time, or contract/project-based remote work. 
   
 I have found it's easy to list off skills and *say* that I am proficient in R and python, know my way around a relational database, and am familiar with technical writing to communicate results.  But, it is much more impactful to *show* how I can demonstrate these competencies.  This is why I have compiled my most recent past and present projects. Enjoy, and feel free to reach out through [LinkedIn](https://www.linkedin.com/in/kristen-steenbergen/) or at kristen.steenbergen at gmail dot com.  
 
